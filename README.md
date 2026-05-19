@@ -19,7 +19,7 @@
 
 ## ⚡ What I Do
 
-I turn complex problems into clean, scalable systems. Currently leading the engineering team at **[BrightByte](https://brightbyte.co)** — architecting the backend that powers **[Cosmo](https://cosmotogether.com)**, a family-safety platform trusted by over half a million families worldwide.
+I turn complex problems into clean, scalable systems. Currently leading the engineering team at **[BrightByte](https://brightbyteconsulting.dev/)** — architecting the backend that powers **[Cosmo](https://cosmotogether.com)**, a family-safety platform trusted by over half a million families worldwide.
 
 > *"I bridge hardware and the web — from GPS signals on a kid's wrist to real-time event streams processing millions of messages a day."*
 
